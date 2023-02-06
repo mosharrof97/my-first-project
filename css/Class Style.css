@@ -1,0 +1,444 @@
+*{margin:0px; padding:0px;}
+.TopManuContactBar {
+    background: white;
+	overflow:hidden;
+}
+.Topbar{
+	width:1100px;
+	margin:auto;
+	cursor: progress;
+
+}
+.ContactBar{
+	overflow:hidden;
+	
+}
+
+.Logo {
+    width: 300px;
+    float: left;
+    margin: 15px 0px  15px 0px;
+	
+}
+
+.Phone {
+    width: 320px;
+    float: left;
+    padding: 5px;
+    
+}
+.CallLogo {
+    width: 40px;
+	height:55px;
+    float: left;
+    margin-top: 25px;
+	margin-right:5px;
+}
+.CallNumber {
+    width: 270px;
+    padding-bottom: 16px;
+	float:lefr;
+}
+.CallNumber h3 {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-family:arial black;
+	transition:.3s;
+}
+.CallNumber h3:hover{
+	color:#ff5e00ed;
+}
+.CallNumber span {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-weight: 600;
+	font-family:arial ;
+	font-size:16px;
+	color: #000000a6;
+	transition:.3s;
+	
+}
+.CallNumber span:hover{
+	color:#ff5e00ed;
+}
+.ContactEmail {
+    width: 320px;
+    float: left;
+    padding: 5px;
+   
+}
+.EmailLogo {
+    width: 40px;
+	height:55px;
+    float: left;
+    margin-top: 25px;
+	margin-right:10px;
+}
+.Email {
+    width: 270px;
+    float: left;
+	padding-bottom: 16px;
+	
+}
+
+.Email h3 {
+    margin-top: 15px;
+    margin-bottom: 14px;
+	font-family:arial;
+	transition:.3s;
+}
+.Email h3:hover{
+	color:#ff5e00ed;
+}
+.Email span {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-weight: 600;
+	font-family:arial;
+	font-size:16px;
+	color: #000000a6;
+	transition:.3s;
+}
+.Email span:hover{
+	color:#ff5e00ed;
+}
+.Apply {
+    width: 120px;
+    float: right;
+    text-align: center;
+	margin-top:25px;
+	
+
+}
+.Apply h3 a {
+    text-decoration: none;
+	color:white;
+    display: block;
+    background: #ff5e00ed;
+    line-height: 40px;
+	border: 1px solid #ff5e00ed;
+    border-radius: 23px;
+	transition:.3s;
+}
+
+.Apply h3 a:hover{
+	color:#ff5e00ed;
+	background:white;
+}	
+.TopManu{
+	width:1100px;
+	margin:auto;
+	background:black;
+	overflow:hidden;
+	display:block;
+}
+ul.MainManu {
+    list-style: none;
+    text-align: center;
+    float: left;
+}
+ul.MainManu li{
+	float:left;
+	padding:25px;
+}
+ul.MainManu li a {
+    text-decoration: none;
+    font-family: arial;
+    font-weight: 500;
+    font-size: 16px;
+	color:#fffdfde8;
+	line-height:30px;
+	transition:.3s;
+}
+ul.MainManu li a:hover{
+	color:#ff5e00ed;
+}
+ul.MainManu li a:active{
+	color:#ff5e00ed;
+}
+.Search {
+    width: 270px;
+    float: right;
+	border:1px solid #555;
+	overflow:hidden;
+	margin:13px;
+	border-radius:30px;
+}
+.Search input {
+	width: calc(100% - 52px);
+    line-height: 30px;
+    padding: 10px;
+	margin-left:5px;
+    float: left;
+    background: transparent !important;
+	color: rgba(255, 255, 255, 0.7) !important;
+    border: none;
+	font-size:20px;
+	font-family:arisl;
+	outline:none;
+}
+
+
+.Search img {
+    padding: 14px 0px;
+    width: 22px;
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+.Footer-slider {
+    background: #232323;
+    overflow:hidden;
+}
+.Footer-slider-2-main{
+	width:1100px;
+	margin:auto;
+	cursor: progress;
+
+}
+.Footer-slider-controlar{
+	overflow:hidden;
+	
+}
+
+.Have-a-Questions {
+    width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Have-a-Questions h1 {
+    font-family: arial;
+    font-size: 25px;
+    line-height: 55px;
+    color: white;
+}
+
+.Have-a-Questions ul {
+    list-style: none;
+}
+
+.Have-a-Questions ul li {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+    padding: 15px 0px;
+}
+.Have-a-Questions ul li img {
+    width: 14px;
+    padding-right: 10px;
+}
+.Recent-Blog-Main{
+	width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Recent-Blog-1-2 h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Recent-Blog-Bolg-Image{
+	width: 100%;
+}
+.Recent-Blog-Image-1 {
+    width: 70px;
+    overflow: hidden;
+    float: left;
+    margin: 5px;
+}
+
+.Recent-Blog-Image-1 img {
+    width: 100%;
+}
+.Recent-Blog-Main-date-Admin-2{
+	width: 160px;
+	overflow: hidden;
+	float: left;
+}
+
+.Recent-Blog-Blog-2 {
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+.Recent-Blog-Blog-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+    line-height: 20px;
+}
+.Recent-Blog-Date-2 {
+    width: 100%;
+    overflow: hidden;
+    padding: 5px 0px;
+}
+
+.Recent-Blog-Date-2 img {
+    width: 15px;
+    padding-right: 10px;
+    color: white;
+}
+
+.Recent-Blog-Date-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+
+.Recent-Blog-Admin-2 {
+    width: 45%;
+    padding: 20px 0px;
+    float: left;
+}
+
+.Recent-Blog-Admin-2 img {
+    width: 15px;
+    padding-right: 10px;
+}
+
+.Recent-Blog-Admin-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+.Recent-Blog-Admin-2 {
+    width: 45%;
+    padding: 5px 0px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.Recent-Blog-Admin-2 img {
+    width: 15px;
+    padding-right: 5px;
+}
+
+.Recent-Blog-Admin-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+
+.Recent-Blog-Commete-2 {
+    width: 45%;
+    overflow: hidden;
+    float: left;
+    padding: 5px 0px;
+    margin-right:10px;
+    margin-bottom: 30px;
+}
+
+.Recent-Blog-Commete-2 img {
+    width: 15px;
+    padding-right: 5px;
+}
+
+.Recent-Blog-Commete-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+.Links {
+    width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Links h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+
+.Links ul {
+    list-style: none;
+}
+
+.Links ul li {
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 25px;
+    color: white;
+}
+
+.Links ul li img {
+    width: 12px;
+    margin-right: 10px;
+}
+.Subscribe-Us-Main {
+    width: 300px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Subscribe-Us h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Subscribe-Us {
+    width: 100%;
+    overflow: hidden;
+}
+
+input.Enter-email-address {
+    padding: 15px;
+    background: #333333;
+    border: none;
+    outline: none;
+    margin: 10px 0px;
+    width: 100%;
+    font-family: system-ui;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+
+input.Subscribe {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    outline: none;
+    margin: 10px 0px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 400;
+    background: linear-gradient(90deg, #f36060, #1bfb2df5);
+    color: white;
+}
+input.Subscribe:hover {
+    background: linear-gradient(90deg, #1bfb2df5, #f36060);
+}
+.Connect-With-Us{
+	width: 100%;
+	overflow: hidden;
+}
+.Connect-With-Us h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Connect-With-Us img {
+    margin: 5px;
+    width: 40px;
+}

@@ -1,0 +1,3156 @@
+*{margin:0px; padding:0px;}
+.TopManuContactBar {
+    background: white;
+	overflow:hidden;
+}
+.Topbar{
+	width:1100px;
+	margin:auto;
+	cursor: progress;
+
+}
+.ContactBar{
+	overflow:hidden;
+	
+}
+
+.Logo {
+    width: 300px;
+    float: left;
+    margin: 15px 0px  15px 0px;
+	
+}
+
+.Phone {
+    width: 320px;
+    float: left;
+    padding: 5px;
+    
+}
+.CallLogo {
+    width: 40px;
+	height:55px;
+    float: left;
+    margin-top: 25px;
+	margin-right:5px;
+}
+.CallNumber {
+    width: 270px;
+    padding-bottom: 16px;
+	float:lefr;
+}
+.CallNumber h3 {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-family:arial black;
+	transition:.3s;
+}
+.CallNumber h3:hover{
+	color:#ff5e00ed;
+}
+.CallNumber span {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-weight: 600;
+	font-family:arial ;
+	font-size:16px;
+	color: #000000a6;
+	transition:.3s;
+	
+}
+.CallNumber span:hover{
+	color:#ff5e00ed;
+}
+.ContactEmail {
+    width: 320px;
+    float: left;
+    padding: 5px;
+   
+}
+.EmailLogo {
+    width: 40px;
+	height:55px;
+    float: left;
+    margin-top: 25px;
+	margin-right:10px;
+}
+.Email {
+    width: 270px;
+    float: left;
+	padding-bottom: 16px;
+	
+}
+
+.Email h3 {
+    margin-top: 15px;
+    margin-bottom: 14px;
+	font-family:arial;
+	transition:.3s;
+}
+.Email h3:hover{
+	color:#ff5e00ed;
+}
+.Email span {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-weight: 600;
+	font-family:arial;
+	font-size:16px;
+	color: #000000a6;
+	transition:.3s;
+}
+.Email span:hover{
+	color:#ff5e00ed;
+}
+.Apply {
+    width: 120px;
+    float: right;
+    text-align: center;
+	margin-top:25px;
+	
+
+}
+.Apply h3 a {
+    text-decoration: none;
+	color:white;
+    display: block;
+    background: #ff5e00ed;
+    line-height: 40px;
+	border: 1px solid #ff5e00ed;
+    border-radius: 23px;
+	transition:.3s;
+}
+
+.Apply h3 a:hover{
+	color:#ff5e00ed;
+	background:white;
+}	
+.TopManu{
+	width:1100px;
+	margin:auto;
+	background:black;
+	overflow:hidden;
+	display:block;
+}
+ul.MainManu {
+    list-style: none;
+    text-align: center;
+    float: left;
+}
+ul.MainManu li{
+	float:left;
+	padding:25px;
+}
+ul.MainManu li a {
+    text-decoration: none;
+    font-family: arial;
+    font-weight: 500;
+    font-size: 16px;
+	color:#fffdfde8;
+	line-height:30px;
+	transition:.3s;
+}
+ul.MainManu li a:hover{
+	color:#ff5e00ed;
+}
+ul.MainManu li a:active{
+	color:#ff5e00ed;
+}
+.Search {
+    width: 270px;
+    float: right;
+	border:1px solid #555;
+	overflow:hidden;
+	margin:13px;
+	border-radius:30px;
+}
+.Search input {
+	width: calc(100% - 52px);
+    line-height: 30px;
+    padding: 10px;
+	margin-left:5px;
+    float: left;
+    background: transparent !important;
+	color: rgba(255, 255, 255, 0.7) !important;
+    border: none;
+	font-size:20px;
+	font-family:arisl;
+	outline:none;
+}
+
+
+.Search img {
+    padding: 14px 0px;
+    width: 22px;
+}
+#HomeSlider {
+    background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(../Image/slider.jpg);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.sliderconten{
+	width:1100px;
+	margin:auto;
+	overflow:hidden;
+	display:block;
+}
+.slider{
+	color:white;
+	font-family:arial black;
+	width: 550px;
+	margin-top:200px;
+	margin-bottom:200px;
+}
+h1.mb-4 {
+    font-size: 50px;
+    font-weight: 900;
+	padding-bottom:25px;
+}
+.slider p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+}
+h3.ContactUs {
+	width:150px;
+}
+
+.ContactUs a {
+    text-decoration: none;
+    line-height: 25px;
+    padding: 20px;
+	border: 1px solid #ff5e00ed;
+	border-radius:35px;
+	outline:none;
+	background:#ff5e00ed;
+	color:white;
+}
+.Content{
+	width:100%;
+	display:block;
+	margin:auto;
+}
+.IConten {
+    Width: 25%;
+    background-size: cover;
+    float: Left;
+    text-align: center;
+    position: relative;
+    transition: all 0.3s ease;
+    padding: 50px 0px;
+}
+.IConten:nth-child(odd){
+	background: #ff5e00ed;
+}
+.IConten:nth-child(even){
+	background: black;
+}
+.Icon{
+	padding: 13px;
+	margin:auto;
+}
+.Conten h3 {
+    margin: 10px;
+    font-family: arial;
+    font-size: 23px;
+    color: #f1eded;
+    line-height: 28px;
+}
+.Conten p {
+    font-family: arial;
+    color: #fbe9df;
+    font-size: 18px;
+    margin: 15px 35px;
+    padding: 10px 0px;
+	line-height: 28px;
+}
+.TopOfferContent{
+	width: 650px;
+    float: Left;
+    overflow: hidden;	
+}
+.TopOfferContentBar {
+    margin-top: 15px;
+}
+.OfferTopBar{
+	width:100%;
+	text-align:left;
+	margin-top:20px;
+}
+.OfferTopBar h1 {
+    font-family: arial black;
+    font-size: 35px;
+    line-height: 40px;
+    padding: 15px 0px;
+}
+.OfferTopBar p {
+    font-family: arial;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+.Left-Right-TopOfferContentBar {
+    width: 325px;
+    float: left;
+}
+.OfferLogo {
+    background: #ff6912;
+    border: 1px solid #ff6912;
+    border-radius: 60%;
+    width: 60px;
+    float: left;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.OfferLogo img {
+    width: 50%;
+    padding: 15px;
+    color: white;
+}
+.OfferConten {
+    width: 200px;
+    float: left;
+    margin-top: 10px;
+}
+.OfferConten h1 {
+    font-family: arial;
+    font-size: 20px;
+    display: block;
+    line-height: 28px;
+}
+.OfferConten p {
+    font-family: arial;
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 1;
+    width: 100%;
+}
+.OfferImage{
+	width:450px;
+	float:Left;
+	overflow:hidden:
+}
+.OfferImage img{
+	width:100%;
+	
+}
+#Madel-Slider{
+	background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(../Image/bg_3.jpg);
+	background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+	overflow:hidden;
+}
+.Details-Bar {
+    margin: 100px 0px;
+}
+.Location {
+    width: 550px;
+    overflow: hidden;
+    float: left;
+    padding: 15px;
+}
+.Location img{
+	width:100%;
+}
+.Details {
+    width: 450px;
+    float: left;
+    margin: 20px 35px;
+}
+.Details h1 {
+    font-family: arial;
+    font-size: 45px;
+    color: white;
+    font-weight: 700;
+    line-height: 65px;
+}
+.Details p {
+    width: 100%;
+    font-family: arial;
+    line-height: 27px;
+    margin: 25px 0px;
+    color: white;
+    font-weight: 500;
+}
+.Counting-Details {
+    width: 100%;
+    overflow: hidden;
+    padding: 55px 55px 0px 55px;
+}
+.Counting {
+    width: 23%;
+    text-align: center;
+    float: left;
+}
+.Counting h1 {
+    font-family: arial;
+    font-size: 35px;
+    color: white;
+    line-height: 65px;
+}
+.Counting h4 {
+    width: 100%;
+    font-family: arial;
+    font-size: 18px;
+    color: white;
+    line-height: 15px;
+}
+section#AllOurCourses {
+    width: 100%; 
+	overflow:hidden
+}
+
+.OurCourses {
+    margin: 85px 0px;
+}
+
+.OurCoursesTitle {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+.CoursesTitle {
+    padding: 15px;
+}
+
+.CoursesTitle h1 {
+    font-family: arial;
+    font-size: 44px;
+    padding: 25px;
+    font-weight: 700;
+    color: #191818eb;
+}
+
+.CoursesTitle span {
+    font-family: system-ui;
+    font-size: 16px;
+    color: #313131d1;
+    font-weight: 600;
+    line-height: 25px;
+}
+.AllOurCourses {
+	width: 100%;
+	
+}
+
+.CoursesDetailes {
+    width: 25%;
+    padding: 20px 0px;
+	float:left;
+	margin-bottom: 50px;
+}
+
+.CoursesContain {
+    width: 90%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.CoursesContain img {
+    width: 100%;
+    margin: 24px 0px;
+}
+
+.CoursesContain h1 {
+    line-height: 60px;
+    font-family: system-ui;
+    font-size: 28px;
+    color: #313131f2;
+}
+
+.CoursesContain span {
+    font-family: system-ui;
+    font-size: 18px;
+    line-height: 30px;
+    color: #313131f2;
+}
+.ApplyNow {
+    width: 90%;
+    margin: auto;
+    padding: 25px 0px;
+}
+
+.ApplyN {
+    width: 100px;
+    background: #fd5f00;
+    color: white;
+    font-family: system-ui;
+    text-align: center;
+    line-height: 38px;
+    border: 1px solid #fd5f00;
+    border-radius: 25px;
+}
+section#OurAllCertifiedTeachers {
+	overflow:hidden;
+	display:block;
+    background: #ddd;
+}
+
+.AllCertifiedTeachers {
+    width: 100%;
+    overflow: hidden;
+    margin: 70px 0px;
+}
+
+.CertifiedTeachersDetails {
+    width: 100%;
+}
+
+.TeachersDetails {
+    width: 58%;
+    margin: auto;
+    text-align: center;
+}
+
+.TeachersDetails h1 {
+    font-family: system-ui;
+    font-size: 40px;
+    color: #1f1f1ff2;
+    padding: 15px;
+    line-height: 69px;
+}
+
+.TeachersDetails span {
+    font-family: system-ui;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 15px;
+    color: #3a3535;
+    margin: 15px;
+}
+.CertifiedTeachers {
+    width: 100%;
+    overflow: hidden;
+    margin: 60px 0px;
+}
+
+.Teachers {
+    width: 25%;
+    text-align: center;
+    float: left;
+	margin:auto;
+}
+.TeachersAbout {
+    width: 90%;
+    margin:auto;
+}
+.TeachersImage{
+	Width:100%;
+	overflow: hidden;
+	margin:auto;
+}
+
+.Teachers img {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.Teachers h1 {
+    font-family: system-ui;
+    font-size: 30px;
+    line-height: 60px;
+    color: #191919fc;
+}
+.Teachers span {
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #ff3b00;
+	text-transform:capitalize;
+	letter-spacing:1px;
+}
+
+.Teachers p {
+    font-family: system-ui;
+    font-size: 16px;
+    line-height: 23px;
+    margin: 0px 15px;
+    font-weight: 500;
+    color: #2f2e2ee3;
+    letter-spacing: .25px;
+}
+.Request-A-Quote{
+	background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(Image/bg_5.jpg);
+	background-position: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	overflow:hidden;
+	display:block;
+}
+.container {width: 100%;}
+
+.row.justify-content-end {
+    width: 600px;
+    float: right;
+    margin: 100px;
+}
+
+.col-md-6.py-5.px-md-5 {
+	width: 500px;
+	margin: auto;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated {
+    color: white;
+    font-family: system-ui;
+    margin: 40px 0px;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated h2 {
+    font-size: 45px;
+    line-height: 80px;
+    font-weight: 500;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated p {
+    font-size: 20px;
+    line-height: 30px;
+}
+input.form-control {
+	border: none;
+	outline: none;
+	float: left;
+	padding: 10px;
+	margin-right: 50px;
+	width: 200px;
+	font-size: 20px;
+	margin-top: 25px;
+	background:#ffffff00;
+}
+.form-group{
+	border-bottom: 1px solid #d4d0d0;
+    width: 200px;
+    float: left;
+    margin-bottom: 15px;
+	margin-top: 15px;
+	margin-right: 50px;
+}
+.form-group.ml-md-4 {
+    border-bottom: 1px solid #d4d0d0;
+    width: 200px;
+    float: left;
+    margin-bottom: 15px;
+}
+select.form-control {
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-family: system-ui;
+    font-size: 15px;
+    width: 100%;
+	background:#ffffff00;
+	
+	
+}
+textarea.form-control {
+    float: left;
+    width: 200px;
+    border: none;
+    outline: none;
+    font-size: 24px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-top: 15px;
+    background: #ffffff00;
+	
+}
+
+input.btn.btn-primary.py-3.px-4 {
+    padding: 15px;
+    width: 100%;
+	
+}
+.form-group-1{
+	width: 200px;
+    float: left;
+    margin-bottom: 15px;
+	margin-top: 15px;
+	margin-right: 50px;
+	border-bottom: 1px solid #d4d0d0;
+}	
+.form-group-2-ml-md-4{
+	
+    width: 200px;
+    float: left;
+	border:none;
+	margin-top: 15px;
+    
+	
+}
+input.btn.btn-primary.py-3.px-4-1 {
+    width: 100%;
+    margin-top: 30px;
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 29px;
+    background: #ff2f00;
+    font-family: system-ui;
+    font-size: 18px;
+	color:white;
+}
+.Recent-Blog-3 {
+    background: #ddd;
+}
+
+.Recent-Blog-Bar {
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.Blog {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.Blog h1 {
+	font-family: system-ui;
+	font-size: 50px;
+	line-height: 80px;
+	color: black;
+}
+
+.Blog p {
+	font-family: system-ui;
+	font-size: 15px;
+	line-height: 25px;
+	padding: 25px;
+}
+.Skills-To-Develop-Your-Child-Memory {
+    width: 100%;
+    overflow: hidden;
+}
+
+.Skills-To-Develop-Your-Child-Memory-1-2 {
+    width: 30%;
+    float: left;
+    margin: 15px;
+    background: white;
+}
+.meta-date-text-center-p-2{
+	background: url(../Image/bg_2.jpg);
+	background-position: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	overflow:hidden;
+	display:block;
+	padding-top:200px
+}
+.meta-date-text-center-p-2 span {
+    background: blue;
+    color: white;
+    font-family: system-ui;
+    font-weight: 800;
+    width: 45px;
+    display: block;
+    text-decoration: none;
+	text-align:center;
+	
+}
+.Skills-To-Develop-Your-Child-Memory-1-2 h2 {
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+    color: #565555;
+    line-height: 35px;
+    margin-top: 20px;
+    padding: 5px 25px;
+}
+
+.Skills-To-Develop-Your-Child-Memory-1-2 p {
+    font-size: 19px;
+    color: #636363e3;
+    line-height: 28px;
+    padding: 5px 25px;
+    font-weight: 100;
+    display: block;
+}
+.Read-More {
+    width: 200px;
+    display: block;
+	margin:25px 0px;
+}
+p.Read-More-1 {
+    width: 100%;
+    overflow: hidden;
+}
+
+span.Read-More-2 {
+    font-family: arial;
+    text-decoration: none;
+    color: white;
+    line-height: 45px;
+}
+
+p.Read-More-1 a {
+    margin: 25px 0px;
+    text-decoration: none;
+    background: #f32500;
+    padding: 15px;
+    border: 1px solid #f32500;
+    border-radius: 40px;
+}
+.Footer-slider {
+    background: red;
+	overflow:hidden;
+}
+.Footer-slider-2-main{
+	width:1100px;
+	margin:auto;
+	cursor: progress;
+
+}
+.Footer-slider-controlar{
+	overflow:hidden;
+	
+}
+
+.Have-a-Questions {
+    width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Have-a-Questions h1 {
+    font-family: arial;
+    font-size: 25px;
+    line-height: 55px;
+    color: white;
+}
+
+.Have-a-Questions ul {
+    list-style: none;
+}
+
+.Have-a-Questions ul li {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+    padding: 15px 0px;
+}
+.Have-a-Questions ul li img {
+    width: 14px;
+    padding-right: 10px;
+}
+.Recent-Blog-Main{
+	width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Recent-Blog-1-2 h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Recent-Blog-Bolg-Image{
+	width: 100%;
+}
+.Recent-Blog-Image-1 {
+    width: 70px;
+    overflow: hidden;
+    float: left;
+    margin: 5px;
+}
+
+.Recent-Blog-Image-1 img {
+    width: 100%;
+}
+.Recent-Blog-Main-date-Admin-2{
+	width: 160px;
+	overflow: hidden;
+	float: left;
+}
+
+.Recent-Blog-Blog-2 {
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+.Recent-Blog-Blog-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+    line-height: 20px;
+}
+.Recent-Blog-Date-2 {
+    width: 100%;
+    overflow: hidden;
+    padding: 5px 0px;
+}
+
+.Recent-Blog-Date-2 img {
+    width: 15px;
+    padding-right: 10px;
+    color: white;
+}
+
+.Recent-Blog-Date-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+
+.Recent-Blog-Admin-2 {
+    width: 45%;
+    padding: 20px 0px;
+    float: left;
+}
+
+.Recent-Blog-Admin-2 img {
+    width: 15px;
+    padding-right: 10px;
+}
+
+.Recent-Blog-Admin-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+.Recent-Blog-Admin-2 {
+    width: 45%;
+    padding: 5px 0px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.Recent-Blog-Admin-2 img {
+    width: 15px;
+    padding-right: 5px;
+}
+
+.Recent-Blog-Admin-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+
+.Recent-Blog-Commete-2 {
+    width: 45%;
+    overflow: hidden;
+    float: left;
+    padding: 5px 0px;
+    margin-right:10px;
+    margin-bottom: 30px;
+}
+
+.Recent-Blog-Commete-2 img {
+    width: 15px;
+    padding-right: 5px;
+}
+
+.Recent-Blog-Commete-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+.Links {
+    width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Links h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+
+.Links ul {
+    list-style: none;
+}
+
+.Links ul li {
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 25px;
+    color: white;
+}
+
+.Links ul li img {
+    width: 12px;
+    margin-right: 10px;
+}
+.Subscribe-Us-Main {
+    width: 300px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Subscribe-Us h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Subscribe-Us {
+    width: 100%;
+    overflow: hidden;
+}
+
+input.Enter-email-address {
+    padding: 15px;
+    background: #2f2f2f;
+    border: none;
+    outline: none;
+    margin: 10px 0px;
+    width: 100%;
+    font-family: system-ui;
+    font-size: 16px;
+}
+
+input.Subscribe {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    outline: none;
+    margin: 10px 0px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 400;
+    background: linear-gradient(90deg, #f36060, #1bfb2df5);
+    color: white;
+}
+.Connect-With-Us{
+	width: 100%;
+	overflow: hidden;
+}
+.Connect-With-Us h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Connect-With-Us img {
+    margin: 5px;
+    width: 40px;
+}*{margin:0px; padding:0px;}
+.TopManuContactBar {
+    background: white;
+	overflow:hidden;
+}
+.Topbar{
+	width:1100px;
+	margin:auto;
+	cursor: progress;
+
+}
+.ContactBar{
+	overflow:hidden;
+	
+}
+
+.Logo {
+    width: 300px;
+    float: left;
+    margin: 15px 0px  15px 0px;
+	
+}
+
+.Phone {
+    width: 320px;
+    float: left;
+    padding: 5px;
+    
+}
+.CallLogo {
+    width: 40px;
+	height:55px;
+    float: left;
+    margin-top: 25px;
+	margin-right:5px;
+}
+.CallNumber {
+    width: 270px;
+    padding-bottom: 16px;
+	float:lefr;
+}
+.CallNumber h3 {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-family:arial black;
+	transition:.3s;
+}
+.CallNumber h3:hover{
+	color:#ff5e00ed;
+}
+.CallNumber span {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-weight: 600;
+	font-family:arial ;
+	font-size:16px;
+	color: #000000a6;
+	transition:.3s;
+	
+}
+.CallNumber span:hover{
+	color:#ff5e00ed;
+}
+.ContactEmail {
+    width: 320px;
+    float: left;
+    padding: 5px;
+   
+}
+.EmailLogo {
+    width: 40px;
+	height:55px;
+    float: left;
+    margin-top: 25px;
+	margin-right:10px;
+}
+.Email {
+    width: 270px;
+    float: left;
+	padding-bottom: 16px;
+	
+}
+
+.Email h3 {
+    margin-top: 15px;
+    margin-bottom: 14px;
+	font-family:arial;
+	transition:.3s;
+}
+.Email h3:hover{
+	color:#ff5e00ed;
+}
+.Email span {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-weight: 600;
+	font-family:arial;
+	font-size:16px;
+	color: #000000a6;
+	transition:.3s;
+}
+.Email span:hover{
+	color:#ff5e00ed;
+}
+.Apply {
+    width: 120px;
+    float: right;
+    text-align: center;
+	margin-top:25px;
+	
+
+}
+.Apply h3 a {
+    text-decoration: none;
+	color:white;
+    display: block;
+    background: #ff5e00ed;
+    line-height: 40px;
+	border: 1px solid #ff5e00ed;
+    border-radius: 23px;
+	transition:.3s;
+}
+
+.Apply h3 a:hover{
+	color:#ff5e00ed;
+	background:white;
+}	
+.TopManu{
+	width:1100px;
+	margin:auto;
+	background:black;
+	overflow:hidden;
+	display:block;
+}
+ul.MainManu {
+    list-style: none;
+    text-align: center;
+    float: left;
+}
+ul.MainManu li{
+	float:left;
+	padding:25px;
+}
+ul.MainManu li a {
+    text-decoration: none;
+    font-family: arial;
+    font-weight: 500;
+    font-size: 16px;
+	color:#fffdfde8;
+	line-height:30px;
+	transition:.3s;
+}
+ul.MainManu li a:hover{
+	color:#ff5e00ed;
+}
+ul.MainManu li a:active{
+	color:#ff5e00ed;
+}
+.Search {
+    width: 270px;
+    float: right;
+	border:1px solid #555;
+	overflow:hidden;
+	margin:13px;
+	border-radius:30px;
+}
+.Search input {
+	width: calc(100% - 52px);
+    line-height: 30px;
+    padding: 10px;
+	margin-left:5px;
+    float: left;
+    background: transparent !important;
+	color: rgba(255, 255, 255, 0.7) !important;
+    border: none;
+	font-size:20px;
+	font-family:arisl;
+	outline:none;
+}
+
+
+.Search img {
+    padding: 14px 0px;
+    width: 22px;
+}
+#HomeSlider {
+    background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(../Image/slider.jpg);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.sliderconten{
+	width:1100px;
+	margin:auto;
+	overflow:hidden;
+	display:block;
+}
+.slider{
+	color:white;
+	font-family:arial black;
+	width: 550px;
+	margin-top:200px;
+	margin-bottom:200px;
+}
+h1.mb-4 {
+    font-size: 50px;
+    font-weight: 900;
+	padding-bottom:25px;
+}
+.slider p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+}
+h3.ContactUs {
+	width:150px;
+}
+
+.ContactUs a {
+    text-decoration: none;
+    line-height: 25px;
+    padding: 20px;
+	border: 1px solid #ff5e00ed;
+	border-radius:35px;
+	outline:none;
+	background:#ff5e00ed;
+	color:white;
+}
+.Content{
+	width:100%;
+	display:block;
+	margin:auto;
+}
+.IConten {
+    Width: 25%;
+    background-size: cover;
+    float: Left;
+    text-align: center;
+    position: relative;
+    transition: all 0.3s ease;
+    padding: 50px 0px;
+}
+.IConten:nth-child(odd){
+	background: #ff5e00ed;
+}
+.IConten:nth-child(even){
+	background: black;
+}
+.Icon{
+	padding: 13px;
+	margin:auto;
+}
+.Conten h3 {
+    margin: 10px;
+    font-family: arial;
+    font-size: 23px;
+    color: #f1eded;
+    line-height: 28px;
+}
+.Conten p {
+    font-family: arial;
+    color: #fbe9df;
+    font-size: 18px;
+    margin: 15px 35px;
+    padding: 10px 0px;
+	line-height: 28px;
+}
+.TopOfferContent{
+	width: 650px;
+    float: Left;
+    overflow: hidden;	
+}
+.TopOfferContentBar {
+    margin-top: 15px;
+}
+.OfferTopBar{
+	width:100%;
+	text-align:left;
+	margin-top:20px;
+}
+.OfferTopBar h1 {
+    font-family: arial black;
+    font-size: 35px;
+    line-height: 40px;
+    padding: 15px 0px;
+}
+.OfferTopBar p {
+    font-family: arial;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+.Left-Right-TopOfferContentBar {
+    width: 325px;
+    float: left;
+}
+.OfferLogo {
+    background: #ff6912;
+    border: 1px solid #ff6912;
+    border-radius: 60%;
+    width: 60px;
+    float: left;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.OfferLogo img {
+    width: 50%;
+    padding: 15px;
+    color: white;
+}
+.OfferConten {
+    width: 200px;
+    float: left;
+    margin-top: 10px;
+}
+.OfferConten h1 {
+    font-family: arial;
+    font-size: 20px;
+    display: block;
+    line-height: 28px;
+}
+.OfferConten p {
+    font-family: arial;
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 1;
+    width: 100%;
+}
+.OfferImage{
+	width:450px;
+	float:Left;
+	overflow:hidden:
+}
+.OfferImage img{
+	width:100%;
+	
+}
+#Madel-Slider{
+	background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(../Image/bg_3.jpg);
+	background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+	overflow:hidden;
+}
+.Details-Bar {
+    margin: 100px 0px;
+}
+.Location {
+    width: 550px;
+    overflow: hidden;
+    float: left;
+    padding: 15px;
+}
+.Location img{
+	width:100%;
+}
+.Details {
+    width: 450px;
+    float: left;
+    margin: 20px 35px;
+}
+.Details h1 {
+    font-family: arial;
+    font-size: 45px;
+    color: white;
+    font-weight: 700;
+    line-height: 65px;
+}
+.Details p {
+    width: 100%;
+    font-family: arial;
+    line-height: 27px;
+    margin: 25px 0px;
+    color: white;
+    font-weight: 500;
+}
+.Counting-Details {
+    width: 100%;
+    overflow: hidden;
+    padding: 55px 55px 0px 55px;
+}
+.Counting {
+    width: 23%;
+    text-align: center;
+    float: left;
+}
+.Counting h1 {
+    font-family: arial;
+    font-size: 35px;
+    color: white;
+    line-height: 65px;
+}
+.Counting h4 {
+    width: 100%;
+    font-family: arial;
+    font-size: 18px;
+    color: white;
+    line-height: 15px;
+}
+section#AllOurCourses {
+    width: 100%; 
+	overflow:hidden
+}
+
+.OurCourses {
+    margin: 85px 0px;
+}
+
+.OurCoursesTitle {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+.CoursesTitle {
+    padding: 15px;
+}
+
+.CoursesTitle h1 {
+    font-family: arial;
+    font-size: 44px;
+    padding: 25px;
+    font-weight: 700;
+    color: #191818eb;
+}
+
+.CoursesTitle span {
+    font-family: system-ui;
+    font-size: 16px;
+    color: #313131d1;
+    font-weight: 600;
+    line-height: 25px;
+}
+.AllOurCourses {
+	width: 100%;
+	
+}
+
+.CoursesDetailes {
+    width: 25%;
+    padding: 20px 0px;
+	float:left;
+	margin-bottom: 50px;
+}
+
+.CoursesContain {
+    width: 90%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.CoursesContain img {
+    width: 100%;
+    margin: 24px 0px;
+}
+
+.CoursesContain h1 {
+    line-height: 60px;
+    font-family: system-ui;
+    font-size: 28px;
+    color: #313131f2;
+}
+
+.CoursesContain span {
+    font-family: system-ui;
+    font-size: 18px;
+    line-height: 30px;
+    color: #313131f2;
+}
+.ApplyNow {
+    width: 90%;
+    margin: auto;
+    padding: 25px 0px;
+}
+
+.ApplyN {
+    width: 100px;
+    background: #fd5f00;
+    color: white;
+    font-family: system-ui;
+    text-align: center;
+    line-height: 38px;
+    border: 1px solid #fd5f00;
+    border-radius: 25px;
+}
+section#OurAllCertifiedTeachers {
+	overflow:hidden;
+	display:block;
+    background: #ddd;
+}
+
+.AllCertifiedTeachers {
+    width: 100%;
+    overflow: hidden;
+    margin: 70px 0px;
+}
+
+.CertifiedTeachersDetails {
+    width: 100%;
+}
+
+.TeachersDetails {
+    width: 58%;
+    margin: auto;
+    text-align: center;
+}
+
+.TeachersDetails h1 {
+    font-family: system-ui;
+    font-size: 40px;
+    color: #1f1f1ff2;
+    padding: 15px;
+    line-height: 69px;
+}
+
+.TeachersDetails span {
+    font-family: system-ui;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 15px;
+    color: #3a3535;
+    margin: 15px;
+}
+.CertifiedTeachers {
+    width: 100%;
+    overflow: hidden;
+    margin: 60px 0px;
+}
+
+.Teachers {
+    width: 25%;
+    text-align: center;
+    float: left;
+	margin:auto;
+}
+.TeachersAbout {
+    width: 90%;
+    margin:auto;
+}
+.TeachersImage{
+	Width:100%;
+	overflow: hidden;
+	margin:auto;
+}
+
+.Teachers img {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.Teachers h1 {
+    font-family: system-ui;
+    font-size: 30px;
+    line-height: 60px;
+    color: #191919fc;
+}
+.Teachers span {
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #ff3b00;
+	text-transform:capitalize;
+	letter-spacing:1px;
+}
+
+.Teachers p {
+    font-family: system-ui;
+    font-size: 16px;
+    line-height: 23px;
+    margin: 0px 15px;
+    font-weight: 500;
+    color: #2f2e2ee3;
+    letter-spacing: .25px;
+}
+.Request-A-Quote{
+	background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(Image/bg_5.jpg);
+	background-position: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	overflow:hidden;
+	display:block;
+}
+.container {width: 100%;}
+
+.row.justify-content-end {
+    width: 600px;
+    float: right;
+    margin: 100px;
+}
+
+.col-md-6.py-5.px-md-5 {
+	width: 500px;
+	margin: auto;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated {
+    color: white;
+    font-family: system-ui;
+    margin: 40px 0px;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated h2 {
+    font-size: 45px;
+    line-height: 80px;
+    font-weight: 500;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated p {
+    font-size: 20px;
+    line-height: 30px;
+}
+input.form-control {
+	border: none;
+	outline: none;
+	float: left;
+	padding: 10px;
+	margin-right: 50px;
+	width: 200px;
+	font-size: 20px;
+	margin-top: 25px;
+	background:#ffffff00;
+}
+.form-group{
+	border-bottom: 1px solid #d4d0d0;
+    width: 200px;
+    float: left;
+    margin-bottom: 15px;
+	margin-top: 15px;
+	margin-right: 50px;
+}
+.form-group.ml-md-4 {
+    border-bottom: 1px solid #d4d0d0;
+    width: 200px;
+    float: left;
+    margin-bottom: 15px;
+}
+select.form-control {
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-family: system-ui;
+    font-size: 15px;
+    width: 100%;
+	background:#ffffff00;
+	
+	
+}
+textarea.form-control {
+    float: left;
+    width: 200px;
+    border: none;
+    outline: none;
+    font-size: 24px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-top: 15px;
+    background: #ffffff00;
+	
+}
+
+input.btn.btn-primary.py-3.px-4 {
+    padding: 15px;
+    width: 100%;
+	
+}
+.form-group-1{
+	width: 200px;
+    float: left;
+    margin-bottom: 15px;
+	margin-top: 15px;
+	margin-right: 50px;
+	border-bottom: 1px solid #d4d0d0;
+}	
+.form-group-2-ml-md-4{
+	
+    width: 200px;
+    float: left;
+	border:none;
+	margin-top: 15px;
+    
+	
+}
+input.btn.btn-primary.py-3.px-4-1 {
+    width: 100%;
+    margin-top: 30px;
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 29px;
+    background: #ff2f00;
+    font-family: system-ui;
+    font-size: 18px;
+	color:white;
+}
+.Recent-Blog-3 {
+    background: #ddd;
+}
+
+.Recent-Blog-Bar {
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.Blog {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.Blog h1 {
+	font-family: system-ui;
+	font-size: 50px;
+	line-height: 80px;
+	color: black;
+}
+
+.Blog p {
+	font-family: system-ui;
+	font-size: 15px;
+	line-height: 25px;
+	padding: 25px;
+}
+.Skills-To-Develop-Your-Child-Memory {
+    width: 100%;
+    overflow: hidden;
+}
+
+.Skills-To-Develop-Your-Child-Memory-1-2 {
+    width: 30%;
+    float: left;
+    margin: 15px;
+    background: white;
+}
+.meta-date-text-center-p-2{
+	background: url(../Image/bg_2.jpg);
+	background-position: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	overflow:hidden;
+	display:block;
+	padding-top:200px
+}
+.meta-date-text-center-p-2 span {
+    background: blue;
+    color: white;
+    font-family: system-ui;
+    font-weight: 800;
+    width: 45px;
+    display: block;
+    text-decoration: none;
+	text-align:center;
+	
+}
+.Skills-To-Develop-Your-Child-Memory-1-2 h2 {
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+    color: #565555;
+    line-height: 35px;
+    margin-top: 20px;
+    padding: 5px 25px;
+}
+
+.Skills-To-Develop-Your-Child-Memory-1-2 p {
+    font-size: 19px;
+    color: #636363e3;
+    line-height: 28px;
+    padding: 5px 25px;
+    font-weight: 100;
+    display: block;
+}
+.Read-More {
+    width: 200px;
+    display: block;
+	margin:25px 0px;
+}
+p.Read-More-1 {
+    width: 100%;
+    overflow: hidden;
+}
+
+span.Read-More-2 {
+    font-family: arial;
+    text-decoration: none;
+    color: white;
+    line-height: 45px;
+}
+
+p.Read-More-1 a {
+    margin: 25px 0px;
+    text-decoration: none;
+    background: #f32500;
+    padding: 15px;
+    border: 1px solid #f32500;
+    border-radius: 40px;
+}
+.Footer-slider {
+    background: red;
+	overflow:hidden;
+}
+.Footer-slider-2-main{
+	width:1100px;
+	margin:auto;
+	cursor: progress;
+
+}
+.Footer-slider-controlar{
+	overflow:hidden;
+	
+}
+
+.Have-a-Questions {
+    width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Have-a-Questions h1 {
+    font-family: arial;
+    font-size: 25px;
+    line-height: 55px;
+    color: white;
+}
+
+.Have-a-Questions ul {
+    list-style: none;
+}
+
+.Have-a-Questions ul li {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+    padding: 15px 0px;
+}
+.Have-a-Questions ul li img {
+    width: 14px;
+    padding-right: 10px;
+}
+.Recent-Blog-Main{
+	width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Recent-Blog-1-2 h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Recent-Blog-Bolg-Image{
+	width: 100%;
+}
+.Recent-Blog-Image-1 {
+    width: 70px;
+    overflow: hidden;
+    float: left;
+    margin: 5px;
+}
+
+.Recent-Blog-Image-1 img {
+    width: 100%;
+}
+.Recent-Blog-Main-date-Admin-2{
+	width: 160px;
+	overflow: hidden;
+	float: left;
+}
+
+.Recent-Blog-Blog-2 {
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+.Recent-Blog-Blog-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+    line-height: 20px;
+}
+.Recent-Blog-Date-2 {
+    width: 100%;
+    overflow: hidden;
+    padding: 5px 0px;
+}
+
+.Recent-Blog-Date-2 img {
+    width: 15px;
+    padding-right: 10px;
+    color: white;
+}
+
+.Recent-Blog-Date-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+
+.Recent-Blog-Admin-2 {
+    width: 45%;
+    padding: 20px 0px;
+    float: left;
+}
+
+.Recent-Blog-Admin-2 img {
+    width: 15px;
+    padding-right: 10px;
+}
+
+.Recent-Blog-Admin-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+.Recent-Blog-Admin-2 {
+    width: 45%;
+    padding: 5px 0px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.Recent-Blog-Admin-2 img {
+    width: 15px;
+    padding-right: 5px;
+}
+
+.Recent-Blog-Admin-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+
+.Recent-Blog-Commete-2 {
+    width: 45%;
+    overflow: hidden;
+    float: left;
+    padding: 5px 0px;
+    margin-right:10px;
+    margin-bottom: 30px;
+}
+
+.Recent-Blog-Commete-2 img {
+    width: 15px;
+    padding-right: 5px;
+}
+
+.Recent-Blog-Commete-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+.Links {
+    width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Links h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+
+.Links ul {
+    list-style: none;
+}
+
+.Links ul li {
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 25px;
+    color: white;
+}
+
+.Links ul li img {
+    width: 12px;
+    margin-right: 10px;
+}
+.Subscribe-Us-Main {
+    width: 300px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Subscribe-Us h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Subscribe-Us {
+    width: 100%;
+    overflow: hidden;
+}
+
+input.Enter-email-address {
+    padding: 15px;
+    background: #2f2f2f;
+    border: none;
+    outline: none;
+    margin: 10px 0px;
+    width: 100%;
+    font-family: system-ui;
+    font-size: 16px;
+}
+
+input.Subscribe {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    outline: none;
+    margin: 10px 0px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 400;
+    background: linear-gradient(90deg, #f36060, #1bfb2df5);
+    color: white;
+}
+.Connect-With-Us{
+	width: 100%;
+	overflow: hidden;
+}
+.Connect-With-Us h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Connect-With-Us img {
+    margin: 5px;
+    width: 40px;
+}*{margin:0px; padding:0px;}
+.TopManuContactBar {
+    background: white;
+	overflow:hidden;
+}
+.Topbar{
+	width:1100px;
+	margin:auto;
+	cursor: progress;
+
+}
+.ContactBar{
+	overflow:hidden;
+	
+}
+
+.Logo {
+    width: 300px;
+    float: left;
+    margin: 15px 0px  15px 0px;
+	
+}
+
+.Phone {
+    width: 320px;
+    float: left;
+    padding: 5px;
+    
+}
+.CallLogo {
+    width: 40px;
+	height:55px;
+    float: left;
+    margin-top: 25px;
+	margin-right:5px;
+}
+.CallNumber {
+    width: 270px;
+    padding-bottom: 16px;
+	float:lefr;
+}
+.CallNumber h3 {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-family:arial black;
+	transition:.3s;
+}
+.CallNumber h3:hover{
+	color:#ff5e00ed;
+}
+.CallNumber span {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-weight: 600;
+	font-family:arial ;
+	font-size:16px;
+	color: #000000a6;
+	transition:.3s;
+	
+}
+.CallNumber span:hover{
+	color:#ff5e00ed;
+}
+.ContactEmail {
+    width: 320px;
+    float: left;
+    padding: 5px;
+   
+}
+.EmailLogo {
+    width: 40px;
+	height:55px;
+    float: left;
+    margin-top: 25px;
+	margin-right:10px;
+}
+.Email {
+    width: 270px;
+    float: left;
+	padding-bottom: 16px;
+	
+}
+
+.Email h3 {
+    margin-top: 15px;
+    margin-bottom: 14px;
+	font-family:arial;
+	transition:.3s;
+}
+.Email h3:hover{
+	color:#ff5e00ed;
+}
+.Email span {
+    margin-bottom: 14px;
+    margin-top: 15px;
+	font-weight: 600;
+	font-family:arial;
+	font-size:16px;
+	color: #000000a6;
+	transition:.3s;
+}
+.Email span:hover{
+	color:#ff5e00ed;
+}
+.Apply {
+    width: 120px;
+    float: right;
+    text-align: center;
+	margin-top:25px;
+	
+
+}
+.Apply h3 a {
+    text-decoration: none;
+	color:white;
+    display: block;
+    background: #ff5e00ed;
+    line-height: 40px;
+	border: 1px solid #ff5e00ed;
+    border-radius: 23px;
+	transition:.3s;
+}
+
+.Apply h3 a:hover{
+	color:#ff5e00ed;
+	background:white;
+}	
+.TopManu{
+	width:1100px;
+	margin:auto;
+	background:black;
+	overflow:hidden;
+	display:block;
+}
+ul.MainManu {
+    list-style: none;
+    text-align: center;
+    float: left;
+}
+ul.MainManu li{
+	float:left;
+	padding:25px;
+}
+ul.MainManu li a {
+    text-decoration: none;
+    font-family: arial;
+    font-weight: 500;
+    font-size: 16px;
+	color:#fffdfde8;
+	line-height:30px;
+	transition:.3s;
+}
+ul.MainManu li a:hover{
+	color:#ff5e00ed;
+}
+ul.MainManu li a:active{
+	color:#ff5e00ed;
+}
+.Search {
+    width: 270px;
+    float: right;
+	border:1px solid #555;
+	overflow:hidden;
+	margin:13px;
+	border-radius:30px;
+}
+.Search input {
+	width: calc(100% - 52px);
+    line-height: 30px;
+    padding: 10px;
+	margin-left:5px;
+    float: left;
+    background: transparent !important;
+	color: rgba(255, 255, 255, 0.7) !important;
+    border: none;
+	font-size:20px;
+	font-family:arisl;
+	outline:none;
+}
+
+
+.Search img {
+    padding: 14px 0px;
+    width: 22px;
+}
+#HomeSlider {
+    background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(../Image/slider.jpg);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.sliderconten{
+	width:1100px;
+	margin:auto;
+	overflow:hidden;
+	display:block;
+}
+.slider{
+	color:white;
+	font-family:arial black;
+	width: 550px;
+	margin-top:200px;
+	margin-bottom:200px;
+}
+h1.mb-4 {
+    font-size: 50px;
+    font-weight: 900;
+	padding-bottom:25px;
+}
+.slider p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+}
+h3.ContactUs {
+	width:150px;
+}
+
+.ContactUs a {
+    text-decoration: none;
+    line-height: 25px;
+    padding: 20px;
+	border: 1px solid #ff5e00ed;
+	border-radius:35px;
+	outline:none;
+	background:#ff5e00ed;
+	color:white;
+}
+.Content{
+	width:100%;
+	display:block;
+	margin:auto;
+}
+.IConten {
+    Width: 25%;
+    background-size: cover;
+    float: Left;
+    text-align: center;
+    position: relative;
+    transition: all 0.3s ease;
+    padding: 50px 0px;
+}
+.IConten:nth-child(odd){
+	background: #ff5e00ed;
+}
+.IConten:nth-child(even){
+	background: black;
+}
+.Icon{
+	padding: 13px;
+	margin:auto;
+}
+.Conten h3 {
+    margin: 10px;
+    font-family: arial;
+    font-size: 23px;
+    color: #f1eded;
+    line-height: 28px;
+}
+.Conten p {
+    font-family: arial;
+    color: #fbe9df;
+    font-size: 18px;
+    margin: 15px 35px;
+    padding: 10px 0px;
+	line-height: 28px;
+}
+.TopOfferContent{
+	width: 650px;
+    float: Left;
+    overflow: hidden;	
+}
+.TopOfferContentBar {
+    margin-top: 15px;
+}
+.OfferTopBar{
+	width:100%;
+	text-align:left;
+	margin-top:20px;
+}
+.OfferTopBar h1 {
+    font-family: arial black;
+    font-size: 35px;
+    line-height: 40px;
+    padding: 15px 0px;
+}
+.OfferTopBar p {
+    font-family: arial;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+.Left-Right-TopOfferContentBar {
+    width: 325px;
+    float: left;
+}
+.OfferLogo {
+    background: #ff6912;
+    border: 1px solid #ff6912;
+    border-radius: 60%;
+    width: 60px;
+    float: left;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.OfferLogo img {
+    width: 50%;
+    padding: 15px;
+    color: white;
+}
+.OfferConten {
+    width: 200px;
+    float: left;
+    margin-top: 10px;
+}
+.OfferConten h1 {
+    font-family: arial;
+    font-size: 20px;
+    display: block;
+    line-height: 28px;
+}
+.OfferConten p {
+    font-family: arial;
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 1;
+    width: 100%;
+}
+.OfferImage{
+	width:450px;
+	float:Left;
+	overflow:hidden:
+}
+.OfferImage img{
+	width:100%;
+	
+}
+#Madel-Slider{
+	background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(../Image/bg_3.jpg);
+	background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+	overflow:hidden;
+}
+.Details-Bar {
+    margin: 100px 0px;
+}
+.Location {
+    width: 550px;
+    overflow: hidden;
+    float: left;
+    padding: 15px;
+}
+.Location img{
+	width:100%;
+}
+.Details {
+    width: 450px;
+    float: left;
+    margin: 20px 35px;
+}
+.Details h1 {
+    font-family: arial;
+    font-size: 45px;
+    color: white;
+    font-weight: 700;
+    line-height: 65px;
+}
+.Details p {
+    width: 100%;
+    font-family: arial;
+    line-height: 27px;
+    margin: 25px 0px;
+    color: white;
+    font-weight: 500;
+}
+.Counting-Details {
+    width: 100%;
+    overflow: hidden;
+    padding: 55px 55px 0px 55px;
+}
+.Counting {
+    width: 23%;
+    text-align: center;
+    float: left;
+}
+.Counting h1 {
+    font-family: arial;
+    font-size: 35px;
+    color: white;
+    line-height: 65px;
+}
+.Counting h4 {
+    width: 100%;
+    font-family: arial;
+    font-size: 18px;
+    color: white;
+    line-height: 15px;
+}
+section#AllOurCourses {
+    width: 100%; 
+	overflow:hidden
+}
+
+.OurCourses {
+    margin: 85px 0px;
+}
+
+.OurCoursesTitle {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+.CoursesTitle {
+    padding: 15px;
+}
+
+.CoursesTitle h1 {
+    font-family: arial;
+    font-size: 44px;
+    padding: 25px;
+    font-weight: 700;
+    color: #191818eb;
+}
+
+.CoursesTitle span {
+    font-family: system-ui;
+    font-size: 16px;
+    color: #313131d1;
+    font-weight: 600;
+    line-height: 25px;
+}
+.AllOurCourses {
+	width: 100%;
+	
+}
+
+.CoursesDetailes {
+    width: 25%;
+    padding: 20px 0px;
+	float:left;
+	margin-bottom: 50px;
+}
+
+.CoursesContain {
+    width: 90%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.CoursesContain img {
+    width: 100%;
+    margin: 24px 0px;
+}
+
+.CoursesContain h1 {
+    line-height: 60px;
+    font-family: system-ui;
+    font-size: 28px;
+    color: #313131f2;
+}
+
+.CoursesContain span {
+    font-family: system-ui;
+    font-size: 18px;
+    line-height: 30px;
+    color: #313131f2;
+}
+.ApplyNow {
+    width: 90%;
+    margin: auto;
+    padding: 25px 0px;
+}
+
+.ApplyN {
+    width: 100px;
+    background: #fd5f00;
+    color: white;
+    font-family: system-ui;
+    text-align: center;
+    line-height: 38px;
+    border: 1px solid #fd5f00;
+    border-radius: 25px;
+}
+section#OurAllCertifiedTeachers {
+	overflow:hidden;
+	display:block;
+    background: #ddd;
+}
+
+.AllCertifiedTeachers {
+    width: 100%;
+    overflow: hidden;
+    margin: 70px 0px;
+}
+
+.CertifiedTeachersDetails {
+    width: 100%;
+}
+
+.TeachersDetails {
+    width: 58%;
+    margin: auto;
+    text-align: center;
+}
+
+.TeachersDetails h1 {
+    font-family: system-ui;
+    font-size: 40px;
+    color: #1f1f1ff2;
+    padding: 15px;
+    line-height: 69px;
+}
+
+.TeachersDetails span {
+    font-family: system-ui;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 15px;
+    color: #3a3535;
+    margin: 15px;
+}
+.CertifiedTeachers {
+    width: 100%;
+    overflow: hidden;
+    margin: 60px 0px;
+}
+
+.Teachers {
+    width: 25%;
+    text-align: center;
+    float: left;
+	margin:auto;
+}
+.TeachersAbout {
+    width: 90%;
+    margin:auto;
+}
+.TeachersImage{
+	Width:100%;
+	overflow: hidden;
+	margin:auto;
+}
+
+.Teachers img {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.Teachers h1 {
+    font-family: system-ui;
+    font-size: 30px;
+    line-height: 60px;
+    color: #191919fc;
+}
+.Teachers span {
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #ff3b00;
+	text-transform:capitalize;
+	letter-spacing:1px;
+}
+
+.Teachers p {
+    font-family: system-ui;
+    font-size: 16px;
+    line-height: 23px;
+    margin: 0px 15px;
+    font-weight: 500;
+    color: #2f2e2ee3;
+    letter-spacing: .25px;
+}
+.Request-A-Quote{
+	background: linear-gradient(45deg, #0d112873 0%, #fd61007d 100%),url(Image/bg_5.jpg);
+	background-position: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	overflow:hidden;
+	display:block;
+}
+.container {width: 100%;}
+
+.row.justify-content-end {
+    width: 600px;
+    float: right;
+    margin: 100px;
+}
+
+.col-md-6.py-5.px-md-5 {
+	width: 500px;
+	margin: auto;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated {
+    color: white;
+    font-family: system-ui;
+    margin: 40px 0px;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated h2 {
+    font-size: 45px;
+    line-height: 80px;
+    font-weight: 500;
+}
+
+.heading-section.heading-section-white.ftco-animate.mb-5.fadeInUp.ftco-animated p {
+    font-size: 20px;
+    line-height: 30px;
+}
+input.form-control {
+	border: none;
+	outline: none;
+	float: left;
+	padding: 10px;
+	margin-right: 50px;
+	width: 200px;
+	font-size: 20px;
+	margin-top: 25px;
+	background:#ffffff00;
+}
+.form-group{
+	border-bottom: 1px solid #d4d0d0;
+    width: 200px;
+    float: left;
+    margin-bottom: 15px;
+	margin-top: 15px;
+	margin-right: 50px;
+}
+.form-group.ml-md-4 {
+    border-bottom: 1px solid #d4d0d0;
+    width: 200px;
+    float: left;
+    margin-bottom: 15px;
+}
+select.form-control {
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-family: system-ui;
+    font-size: 15px;
+    width: 100%;
+	background:#ffffff00;
+	
+	
+}
+textarea.form-control {
+    float: left;
+    width: 200px;
+    border: none;
+    outline: none;
+    font-size: 24px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-top: 15px;
+    background: #ffffff00;
+	
+}
+
+input.btn.btn-primary.py-3.px-4 {
+    padding: 15px;
+    width: 100%;
+	
+}
+.form-group-1{
+	width: 200px;
+    float: left;
+    margin-bottom: 15px;
+	margin-top: 15px;
+	margin-right: 50px;
+	border-bottom: 1px solid #d4d0d0;
+}	
+.form-group-2-ml-md-4{
+	
+    width: 200px;
+    float: left;
+	border:none;
+	margin-top: 15px;
+    
+	
+}
+input.btn.btn-primary.py-3.px-4-1 {
+    width: 100%;
+    margin-top: 30px;
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 29px;
+    background: #ff2f00;
+    font-family: system-ui;
+    font-size: 18px;
+	color:white;
+}
+.Recent-Blog-3 {
+    background: #ddd;
+}
+
+.Recent-Blog-Bar {
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.Blog {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.Blog h1 {
+	font-family: system-ui;
+	font-size: 50px;
+	line-height: 80px;
+	color: black;
+}
+
+.Blog p {
+	font-family: system-ui;
+	font-size: 15px;
+	line-height: 25px;
+	padding: 25px;
+}
+.Skills-To-Develop-Your-Child-Memory {
+    width: 100%;
+    overflow: hidden;
+}
+
+.Skills-To-Develop-Your-Child-Memory-1-2 {
+    width: 30%;
+    float: left;
+    margin: 15px;
+    background: white;
+}
+.meta-date-text-center-p-2{
+	background: url(../Image/bg_2.jpg);
+	background-position: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	overflow:hidden;
+	display:block;
+	padding-top:200px
+}
+.meta-date-text-center-p-2 span {
+    background: blue;
+    color: white;
+    font-family: system-ui;
+    font-weight: 800;
+    width: 45px;
+    display: block;
+    text-decoration: none;
+	text-align:center;
+	
+}
+.Skills-To-Develop-Your-Child-Memory-1-2 h2 {
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+    color: #565555;
+    line-height: 35px;
+    margin-top: 20px;
+    padding: 5px 25px;
+}
+
+.Skills-To-Develop-Your-Child-Memory-1-2 p {
+    font-size: 19px;
+    color: #636363e3;
+    line-height: 28px;
+    padding: 5px 25px;
+    font-weight: 100;
+    display: block;
+}
+.Read-More {
+    width: 200px;
+    display: block;
+	margin:25px 0px;
+}
+p.Read-More-1 {
+    width: 100%;
+    overflow: hidden;
+}
+
+span.Read-More-2 {
+    font-family: arial;
+    text-decoration: none;
+    color: white;
+    line-height: 45px;
+}
+
+p.Read-More-1 a {
+    margin: 25px 0px;
+    text-decoration: none;
+    background: #f32500;
+    padding: 15px;
+    border: 1px solid #f32500;
+    border-radius: 40px;
+}
+.Footer-slider {
+    background: #232323;
+    overflow:hidden;
+}
+.Footer-slider-2-main{
+	width:1100px;
+	margin:auto;
+	cursor: progress;
+
+}
+.Footer-slider-controlar{
+	overflow:hidden;
+	
+}
+
+.Have-a-Questions {
+    width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Have-a-Questions h1 {
+    font-family: arial;
+    font-size: 25px;
+    line-height: 55px;
+    color: white;
+}
+
+.Have-a-Questions ul {
+    list-style: none;
+}
+
+.Have-a-Questions ul li {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+    padding: 15px 0px;
+}
+.Have-a-Questions ul li img {
+    width: 14px;
+    padding-right: 10px;
+}
+.Recent-Blog-Main{
+	width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Recent-Blog-1-2 h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Recent-Blog-Bolg-Image{
+	width: 100%;
+}
+.Recent-Blog-Image-1 {
+    width: 70px;
+    overflow: hidden;
+    float: left;
+    margin: 5px;
+}
+
+.Recent-Blog-Image-1 img {
+    width: 100%;
+}
+.Recent-Blog-Main-date-Admin-2{
+	width: 160px;
+	overflow: hidden;
+	float: left;
+}
+
+.Recent-Blog-Blog-2 {
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+.Recent-Blog-Blog-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+    line-height: 20px;
+}
+.Recent-Blog-Date-2 {
+    width: 100%;
+    overflow: hidden;
+    padding: 5px 0px;
+}
+
+.Recent-Blog-Date-2 img {
+    width: 15px;
+    padding-right: 10px;
+    color: white;
+}
+
+.Recent-Blog-Date-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+
+.Recent-Blog-Admin-2 {
+    width: 45%;
+    padding: 20px 0px;
+    float: left;
+}
+
+.Recent-Blog-Admin-2 img {
+    width: 15px;
+    padding-right: 10px;
+}
+
+.Recent-Blog-Admin-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+.Recent-Blog-Admin-2 {
+    width: 45%;
+    padding: 5px 0px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.Recent-Blog-Admin-2 img {
+    width: 15px;
+    padding-right: 5px;
+}
+
+.Recent-Blog-Admin-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+
+.Recent-Blog-Commete-2 {
+    width: 45%;
+    overflow: hidden;
+    float: left;
+    padding: 5px 0px;
+    margin-right:10px;
+    margin-bottom: 30px;
+}
+
+.Recent-Blog-Commete-2 img {
+    width: 15px;
+    padding-right: 5px;
+}
+
+.Recent-Blog-Commete-2 span {
+    font-family: system-ui;
+    font-size: 14px;
+    color: white;
+}
+.Links {
+    width: 240px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Links h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+
+.Links ul {
+    list-style: none;
+}
+
+.Links ul li {
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 25px;
+    color: white;
+}
+
+.Links ul li img {
+    width: 12px;
+    margin-right: 10px;
+}
+.Subscribe-Us-Main {
+    width: 300px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.Subscribe-Us h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Subscribe-Us {
+    width: 100%;
+    overflow: hidden;
+}
+
+input.Enter-email-address {
+    padding: 15px;
+    background: #333333;
+    border: none;
+    outline: none;
+    margin: 10px 0px;
+    width: 100%;
+    font-family: system-ui;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+
+input.Subscribe {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    outline: none;
+    margin: 10px 0px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 400;
+    background: linear-gradient(90deg, #f36060, #1bfb2df5);
+    color: white;
+}
+input.Subscribe:hover {
+    background: linear-gradient(90deg, #1bfb2df5, #f36060);
+}
+.Connect-With-Us{
+	width: 100%;
+	overflow: hidden;
+}
+.Connect-With-Us h1 {
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+    line-height: 55px;
+}
+.Connect-With-Us img {
+    margin: 5px;
+    width: 40px;
+}
